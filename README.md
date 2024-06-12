@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de um arquivo README para o código Python da calculadora de horas trabalhadas que mencionamos anteriormente:
-
----
-
 # Calculadora de Horas Trabalhadas
 
 Este é um simples programa em Python que permite aos funcionários calcular as horas trabalhadas com base nos horários de entrada e saída, incluindo a possibilidade de descontar o intervalo de almoço.
